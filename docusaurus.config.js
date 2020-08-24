@@ -1,18 +1,18 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'Docs AppApi',
+  tagline: 'Docs para el plugin de Api',
+  url: 'https://playtown-team.github.io/',
+  baseUrl: '/appapi-docs/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'playtown-team', // Usually your GitHub org/user name.
+  projectName: 'appapi-docs', //  Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Docs AppApi',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Docs AppApi Logo',
+        src: 'img/logo-app-api@2x.png',
       },
       items: [
         {
