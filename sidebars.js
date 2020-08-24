@@ -22,7 +22,11 @@ module.exports = {
           // 'home',
         ],
       },
-    ]
+    ],
+    "Obtener Categorías": [
+          'category',
+    ],
+
     //   {
     //     "Tipos de bloque":
     //       [
